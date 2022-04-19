@@ -1,2 +1,1 @@
-# pointer-gg-SOL-payments
-Created with CodeSandbox
+# Take payments IRL with Solana Pay
